@@ -1,4 +1,4 @@
-# The Art of War by Sun Tzu
+# The Art of War - Sun Tzu
 
 ![AOW](Images/TheArtOfWar.jpeg)
 
