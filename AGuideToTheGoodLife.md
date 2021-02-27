@@ -16,7 +16,7 @@ The premise of Stoicism is to lead a happy life by attaining and maintaining a s
 
 1. _Negative Visualization_: By imagining the worst case scenario, we are mentally better prepared in the case the said scenarios were to actually transpire. Also, by visualizing loss, we value what we have more than what we don't have. 
 
-2. _Trichotomy of Control_: We shouldn't waste time getting anxious about things outside our control as it will always be a fruitless endeavor. We should concentrate our efforts on things that are completely and somewhat under our control. For things that are partially under our control, we should create _internal rather than external goals.
+2. _Trichotomy of Control_: We shouldn't waste time getting anxious about things outside our control as it will always be a fruitless endeavor. We should concentrate our efforts on things that are completely and somewhat under our control. For things that are partially under our control, we should create _internal_ rather than external goals.
 
 3. _Fatalism_: We should adopt a fatalist attitude about the past and present but not of the future. A fatalist attitude inculcates an attitude of submission to relinquish control to fate thereby not getting stuck in the past nor in the present moment.
 
