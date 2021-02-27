@@ -9,3 +9,4 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 5. [The Case Against Sugar](TheCaseAgainstSugar.md)
 6. [Mindset: The New Psychology of Success](MindsetTheNewPsychologyOfSuccess.md)
 7. [Supermind](Supermind.md)
+8. [The Guide To The Good Life](AGuideToTheGoodLife.md)
