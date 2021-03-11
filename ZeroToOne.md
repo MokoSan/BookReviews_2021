@@ -12,6 +12,8 @@ I regret not getting rid of the dust off this book and diving in earlier - great
 
 The flow within each chapter was what made reading the book a great experience in addition to the lucid approach undertaken by the author to condense complex ideas into simple concepts. While reading the individual chapters I did find a disconnect between concepts, however, the penultimate chapter concretized the individual lessons incredibly well and bolstered the concepts by providing two very pertinent examples.
 
+The nuggets of wisdom presented in this book were so insightful that I took it upon myself to write notes for each of the chapters. Overall, I highly recommend this book to anyone interested in learning how to make the "secret sauce" of successful start-ups.
+
 ### Lessons From Chapters
 
 #### Chapter 1: The Challenge of the Future
@@ -152,7 +154,34 @@ The flow within each chapter was what made reading the book a great experience i
 
 #### Chapter 11: If You Build It, Will They Come?
 1. Startups should care about sales just as much as they care about the product.
-2. Distribution can be the bottleneck for the product.
-3. CLV (Customer Lifetime Value) > CAC (Customer Acquire Cost).
+2. People underestimate the difficulty of sales and overestimate the difficult of science and engineering.
+3. All sales people are actors: persuasion, not sincerity, is their priority.
+4. Sales works best when hidden - sales involves distribution.
+   1. Everyone is inherently a salesman pitching their value.
+5. Superior sales and distribution by itself can create monopoly without product; the converse isn't true.
+6. Distribution can be the bottleneck for the product.
+7. CLV (Customer Lifetime Value) > CAC (Customer Acquire Cost).
    1. The more the returns from retaining a customer are, the higher your value you'll be retaining as you'll be covering the amount of the cost of getting more customers.
-4. The more expensive the product, the bigger sales costs, therefore, the more important to sale.
+8. The more expensive the product, the bigger sales costs, therefore, the more important to sale.
+
+#### Chapter 12: Man And Machine
+1. Globalization is substitution while technology is complementary.
+2. A hybrid of human and machine will solve problems better.
+
+#### Chapter 13: Seeing Green
+1. Every successful business model should answer:
+   1. The Engineering question: Can you create breakthrough technology instead of incremental improvements?
+   2. The Timing question: Is now the right time to start your particular business?
+   3. The monopoly question: Are starting with a big share from a small market?
+   4. The people question: Do you have the right team?
+   5. The distribution question: Do you have a way to deliver your product?
+   6. The durability question: Will your market position be defensible 10 and 20 years into the future?
+   7. The secret question: Have you identified an unique opportunity that others don’t see?
+2. Tesla had all 7 questions answered compared to other cleantech companies.
+
+#### Chapter 14: The Founder's Paradox
+1. Founders are important not because they are the only ones who’s work has value, but rather because a great founder can bring out the best work from everybody at his company.
+2. The greatest danger for a founder is to become so certain of his own myth that he loses his mind. But an equally insidious danger for every business is to lose all sense of myth and mistake disenchantment for wisdom.
+
+#### Conclusion: Stagnation or Singularity?
+1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and as strange as it was to the ancients who saw it at first, can we both re-create it and preserve it for the future.
