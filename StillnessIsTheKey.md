@@ -2,7 +2,7 @@
 
 ![Stillness is The Key](Images/StillnessIsTheKey.jpeg)
 
-## The Book In Three Sentences
+## The Book In 3 Sentences
 A civil war is constantly raged within ourselves and the only way to win is to be still as it is via the state of stillness is how we achieve greatness - the greatness of peace, genius and eventually enlightenment. The mind, body and spirit must be in masterful harmony with each other to achieve stillness. All wisdom of the ancient world, whether it is Buddhism, Stoicism, Hinduism or Christianity agrees that a life of on-command stillness will lead to a good life and eventually, a good death.
 
 ## My 411

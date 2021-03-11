@@ -3,11 +3,9 @@
 ![Zero To One](Images/ZeroToOne.jpeg)
 
 ## The Book in 3 Sentences
-
 The biggest leaps in progress are vertical (from zero to one) like in the case of technological innovation and not horizontal (one to n) like in the case of globalization. The keys to any successful startup lie in the gaining and capturing value by paying close attention to technology, timing, the competition in an effort to become a monopoly, distribution, durability and business secrets. Founders are typically eccentric risk taking individuals need a long term vision (this vision could be delusional) to take their business from zero to one.
 
 ## My 411
-
 I regret not getting rid of the dust off this book and diving in earlier - great book with great advice about how to spur technological innovation and pragmatically actualize a vision by building a business that starts from a gestation period as a start-up and eventually transmogrifies into a dominating behemoth. 
 
 The flow within each chapter was what made reading the book a great experience in addition to the lucid approach undertaken by the author to condense complex ideas into simple concepts. While reading the individual chapters I did find a disconnect between concepts, however, the penultimate chapter concretized the individual lessons incredibly well and bolstered the concepts by providing two very pertinent examples.
