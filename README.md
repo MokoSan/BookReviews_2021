@@ -16,6 +16,7 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 12. [Deep Work](DeepWork.md)
 13. [The 4 Disciplines of Execution](The4DX.md)
 14. [Irresistible](Irresistible.md)
+15. [Man's Search For Meaning](MansSearchForMeaning.md)
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
