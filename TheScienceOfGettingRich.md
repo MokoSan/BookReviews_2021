@@ -18,7 +18,7 @@ Overall, I would recommend this short but insightful book!
 
 ## Notes
 1. There is a thinking stuff from which all things are made, and which, in its original state, permeates, penetrates, and fills the interspaces of the universe.
-2. A thought in this substance produces the thing that is imagined by the thought.a
+2. A thought in this substance produces the thing that is imagined by the thought.
 3. A person can form things in his thought, and by impressing his thought upon formless substance, can cause the thing he thinks about to be created.
    1. In order to do this, a person must pass from the __competitive__ to the __creative__ mind. Otherwise, he cannot be in harmony with the formless intelligence, which is always creative and never competitive in spirit.
 4. Becoming the best version of yourself and getting rich is one of the few ways to help others become rich.
