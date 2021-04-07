@@ -18,6 +18,7 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 14. [Irresistible](Irresistible.md)
 15. [Man's Search For Meaning](MansSearchForMeaning.md)
 16. [The Science Of Getting Rich](TheScienceOfGettingRich.md)
+17. [The Buddha In Your Mirror](TheBuddhaInYourMirror.md)
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
