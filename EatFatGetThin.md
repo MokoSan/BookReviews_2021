@@ -12,7 +12,7 @@ The book is divided into 4 main parts where the first 2 parts go into the "why" 
 
 My favorite part of the book was how the author, using scientific research and historical accounts, exposed members of the sugar and high-carb industries that have led a campaign to blame fat for all the problems they have caused. Examples of their influence include funding research studies and extreme lobbying that leads to the government creating policies that protect the sugar industry.
 
-Overall, this incredibly practical book is definitely a must-read for anyone interested in improving their health. My regret is I wish I had found this book before I embarked on my own weight loss journey as the lessons from the book would have made the process considerably easier.
+Overall, this incredibly practical book is definitely a must-read for anyone interested in improving their health. My regret is that I had found this book too late and I wish I had discovered it before I started my weight loss journey as it would have made it easier. 
 
 ## Notes
 
