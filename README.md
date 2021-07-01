@@ -27,3 +27,4 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
+2. [Q2](Q2Retrospective.md)
