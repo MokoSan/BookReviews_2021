@@ -24,6 +24,21 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 20. [7 Deadly Innocent Frauds of Economic Policy](SevenDeadlyInnocentFraudsOfEconomicPolicy.md)
 21. [The Greatness of Saturn](TheGreatnessOfSaturn.md)
 22. [Breath](Breath.md)
+23. [Masters Of Doom](MastersOfDoom.md)
+24. [Caffeine](Caffeine.md)
+25. [How To Talk To Anyone, Anytime Anywhere](HowToTalkToAnyoneAnytimeAnywhere.md)
+26. [Show Your Work](ShowYourWork.md)
+27. [Brain Maker](BrainMaker.md)
+28. [Three Questions]
+29. [The Beggar]
+30. [The War Of Art]
+31. [How To Win Friends And Influence People]
+32. [The Bet]
+33. [The Kybalion]
+34. [Atomic Habits]
+35. [Your Invisible Power]
+36. [The Nameless City]
+37. [The Law of Success]
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
