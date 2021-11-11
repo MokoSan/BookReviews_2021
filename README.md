@@ -39,6 +39,8 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 35. [Your Invisible Power]
 36. [The Nameless City]
 37. [The Law of Success]
+38. [The Feeling Is The Secret]
+39. [Invent And Wander]
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
