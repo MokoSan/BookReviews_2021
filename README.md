@@ -41,6 +41,11 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 37. [The Law of Success]
 38. [The Feeling Is The Secret]
 39. [Invent And Wander]
+40. [The Secret of Dreams]
+41. [The Power of Sexual Transmutation]
+42. [The Heart of Business]
+43. [August Heat]
+44. [The Egyptian Book of the Dead]
 
 ## Retrospectives
 1. [Q1](Q1Retrospective.md)
