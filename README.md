@@ -29,7 +29,7 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 25. [How To Talk To Anyone, Anytime Anywhere - Larry King](HowToTalkToAnyoneAnytimeAnywhere.md)
 26. [Show Your Work - Austin Kleon](ShowYourWork.md)
 27. [Brain Maker - David Perlmutter](BrainMaker.md)
-28. [Three Questions - Leo Tolstoy]
+28. [Three Questions - Leo Tolstoy](ThreeQuestions.md)
 29. [The Beggar - Anton Chekhov]
 30. [The War Of Art - Steven Pressfield]
 31. [How To Win Friends And Influence People - Dale Carnegie]
