@@ -30,11 +30,11 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 26. [Show Your Work - Austin Kleon](ShowYourWork.md)
 27. [Brain Maker - David Perlmutter](BrainMaker.md)
 28. [Three Questions - Leo Tolstoy](ThreeQuestions.md)
-29. [The Beggar - Anton Chekhov]
+29. [The Beggar - Anton Chekhov](TheBeggar.md)
 30. [The War Of Art - Steven Pressfield]
 31. [How To Win Friends And Influence People - Dale Carnegie]
-32. [The Bet - Anton Chekhov]
-33. [The Kybalion - The Three Initiates]
+32. [The Bet - Anton Chekhov](TheBet.md)
+33. [The Kybalion - The Three Initiates](Kybalion.md)
 34. [Atomic Habits - James Clear]
 35. [Your Invisible Power - Geneviève Behrend]
 36. [The Nameless City - HP Lovecraft]
