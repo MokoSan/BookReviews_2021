@@ -1,5 +1,7 @@
 # My Book Reviews of 2021
 
+![Results](Images/Results.jpg)
+
 My goal is to hit 45 books in 2021. Here are the books I have finished reading / listening:
 
 1. [Autobiography of a Yogi - Parmahansa Yogananda](AutobiographyOfAYogi.md)
@@ -44,7 +46,7 @@ My goal is to hit 45 books in 2021. Here are the books I have finished reading /
 40. [The Secret of Dreams - Yacki Raizizun]
 41. [The Power of Sexual Transmutation - Mitch Horowitz]
 42. [The Heart of Business - Hubert Joly]
-43. [August Heat - W. F. Harvey]
+43. [August Heat - W. F. Harvey](AugustHeat.md)
 44. [The Egyptian Book of the Dead - Ani Osiris]
 45. [The Miracle Club - Mitch Horowitz]
 
